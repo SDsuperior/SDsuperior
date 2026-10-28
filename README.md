@@ -1,8 +1,9 @@
-# 👋, I'M AN SAMUEL DANIEL
+# 👋, I'M SAMUEL DANIEL
 
 ## Also known as SDsuperior.
 # 💫 About Me:
-Frontend and a web Developer.<br>Focused on HTML, CSS, JavaScript and Love building Beautiful user interface,<br>and responsive Design Enthusiast.<br>Exploring modern web technologies. 
+Frontend and a web Developer.<br>Focused on HTML, CSS, JavaScript and Love building Beautiful user interface,<br>and responsive Design Enthusiast.<br>Exploring modern web technologies.
+creating a world out of Nothing.
 
 
 ## 🌐 Socials:
